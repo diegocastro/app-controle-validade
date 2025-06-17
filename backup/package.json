@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "@react-native-async-storage/async-storage": "^2.2.0",
-    "@react-native-community/datetimepicker": "^8.4.1",
-    "react-native-push-notification": "^8.1.1",
-    "realm": "^12.14.2"
-  }
-}
